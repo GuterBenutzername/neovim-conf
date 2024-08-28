@@ -56,7 +56,7 @@
     ./ui/nui.nix
 
     ./utils/better-escape.nix
-    ./utils/neocord.nix
+    # ./utils/neocord.nix
     ./utils/hardtime.nix
     ./utils/harpoon.nix
     ./utils/illuminate.nix
