@@ -55,6 +55,7 @@
     ./ui/nvim-notify.nix
     ./ui/nui.nix
 
+    ./utils/easymotion.nix
     ./utils/better-escape.nix
     # ./utils/neocord.nix
     ./utils/hardtime.nix
