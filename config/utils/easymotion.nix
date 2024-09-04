@@ -1,5 +1,5 @@
 {
-  plugins.vim-easymotion.enable = true;
+  plugins.easymotion.enable = true;
   keymaps = [
     {
       mode = "n";
